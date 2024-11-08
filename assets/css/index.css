@@ -191,6 +191,8 @@ body {
 
 .history-introduce__title-image {
   width: 100px;
+  border: 1px solid #eee;
+  border-radius: 20px;
 }
 
 .history-introduce__description-content {
